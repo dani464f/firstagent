@@ -1,0 +1,25 @@
+timestamp,invoice_id,client_id,followup_type,channel,subject,body,decision_reason,hash_id
+2026-02-26T17:31:14Z,INV-1001,C001,overdue_3,console,Friendly reminder: invoice INV-1001,"Hello Alice Kim,
+
+This is a friendly overdue 3 regarding invoice INV-1001 for USD 1200.00. The due date is 2026-02-20.
+Please submit payment using: https://pay.example.com/invoice/INV-1001
+
+If payment has already been made, please reply with confirmation.
+
+Thank you.",Invoice overdue by 6 days,dedbb2107c639329
+2026-02-26T17:31:14Z,INV-1003,C003,overdue_30,console,Final notice: invoice INV-1003,"Hello Chloe Patel,
+
+This is a firmest overdue 30 regarding invoice INV-1003 for USD 5100.00. The due date is 2026-01-20.
+Please submit payment using: https://pay.example.com/invoice/INV-1003
+
+If payment has already been made, please reply with confirmation.
+
+Thank you.",Invoice overdue by 37 days,719107f319b341a2
+2026-02-26T17:31:14Z,INV-1004,C003,pre_due,console,Upcoming invoice due soon (INV-1004),"Hello Chloe Patel,
+
+This is a firm pre due regarding invoice INV-1004 for USD 800.00. The due date is 2026-02-28.
+Please submit payment using: https://pay.example.com/invoice/INV-1004
+
+If payment has already been made, please reply with confirmation.
+
+Thank you.",Due in 2 days; client flagged consistently late,9242941cff0aeab2

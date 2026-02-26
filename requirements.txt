@@ -1,0 +1,2 @@
+# No external dependencies required for the local MVP runtime.
+# Optional: install real CrewAI and PyYAML if integrating with hosted LLM providers.

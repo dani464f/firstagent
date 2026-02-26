@@ -1,0 +1,4 @@
+client_id,company_name,contact_name,email,typical_payment_days,late_rate,risk_tier,notes
+C001,Northwind Studio,Alice Kim,alice@northwind.example,5,0.1,low,Long-term client
+C002,Vertex IT,Bruno Diaz,bruno@vertex.example,15,0.55,med,Occasional delays
+C003,Redline Ops,Chloe Patel,chloe@redline.example,22,0.75,high,Late fee clause in MSA

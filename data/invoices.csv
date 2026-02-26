@@ -1,0 +1,6 @@
+invoice_id,client_id,invoice_date,due_date,amount,currency,status,last_payment_date,last_followup_date
+INV-1001,C001,2026-01-15,2026-02-20,1200.00,USD,open,,2026-02-26
+INV-1002,C002,2026-01-10,2026-02-12,2400.00,USD,open,,2026-02-24
+INV-1003,C003,2025-12-01,2026-01-20,5100.00,USD,open,,2026-02-26
+INV-1004,C003,2026-02-10,2026-02-28,800.00,USD,open,,2026-02-26
+INV-1005,C001,2026-01-05,2026-02-01,300.00,USD,paid,2026-02-02,
