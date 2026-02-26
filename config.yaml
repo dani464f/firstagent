@@ -1,0 +1,8 @@
+pre_due_window_days: 3
+cooldown_days: 3
+enable_late_fee_clause: false
+enable_pause_service_language: false
+payment_link_template: "https://pay.example.com/invoice/{invoice_id}"
+sender_name: "Accounts Receivable"
+sender_email: "ar@example.com"
+timezone: "America/New_York"
